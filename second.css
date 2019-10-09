@@ -1,0 +1,31 @@
+body{
+	border: 15px solid #bdc3c7;
+	text-align: left;
+	width: 50%;
+	margin:0 auto;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 2%;
+}
+img{
+	width:30%;
+	float:left;
+	margin:1.66%;
+}
+p:nth-of-type(1){
+	color:#3498db;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+
+}
+p:nth-of-type(3){
+	border-left: 6px solid #bdc3c7;
+	padding-left: 1%;
+
+}
+h2{
+	color:#2c3e50;
+
+}
+hr{
+	border-bottom: 1px solid #1529ad;
+}
